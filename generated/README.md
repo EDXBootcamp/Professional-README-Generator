@@ -1,8 +1,8 @@
 
-# test
+# Professional-README-Generator
 
 ## Description
-test
+A command-line application that dynamically generates a professional README.md file from user input using the Inquirer package.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,19 +13,19 @@ test
 - [Questions](#questions)
 
 ## Installation
-test
+nstall dependencies.
 
 ## Usage
-test
+Follow the prompts to enter information about your project.
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
-test
+Testing
 
 ## Tests
-test
+follow instruction
 
 ## Questions
-For additional questions, contact [test](https://github.com/test) via email at test.
+For additional questions, contact [tjthouhid](https://github.com/tjthouhid) via email at tjthouhid@gmail.com.
